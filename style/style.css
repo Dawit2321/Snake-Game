@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-container{
+    width: 400px;
+    margin: 50px auto;
+}
+
+.container h1{
+  text-align: center;
+}
+
+#canvas {
+    background: #3b3c3d;
+    margin: 50px auto;
+}
+
+.snake {
+  background-color: green;
+  width: 20px;
+  height: 20px;
+}
+.apple {
+  background-color: red;
+  width: 20px;
+  height: 20px;
+}
+
+#score{
+  background: blue;
+  width: 20px;
+  height: 20px;
+}
+
+
+
+
+
